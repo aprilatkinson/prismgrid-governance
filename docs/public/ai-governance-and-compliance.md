@@ -65,3 +65,15 @@ Most AI failures occur when:
 > “The AI said so” becomes a justification.
 
 PrismGrid exists to prevent that failure mode.
+
+---
+
+### Scope Note
+
+This document states PrismGrid’s governance position at a high level.
+
+For the full AI governance framework, safeguards, and explicit EU AI Act risk mapping,
+see:
+
+docs/public/ai-governance-and-eu-ai-act.md
+
